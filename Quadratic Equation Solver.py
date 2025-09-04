@@ -66,7 +66,7 @@ def main():
                 print("       |       |            |    ")
                 print("      |        |             |   ")
                 print("     |         |              |  ")
-                print("     |         |              | ")
+                print("    |          |               | ")
                 print("               |               ")
                 print("               |               ")
                 print("               |               ")
@@ -84,14 +84,14 @@ def main():
                 print("       |       |            |    ")
                 print("      |        |             |   ")
                 print("     |         |              |  ")
-                print("     |         |              | ")
+                print("    |         |                | ")
                 print("               |               ")
                 print("               |               ")
                 print("               |               ")
                 break
             elif a > 0 and f < 0 and g > 0:
                 print("                   |                  ")
-                print("      |            |            |      ")
+                print("      |            |             |      ")
                 print("       |           |            |      ")
                 print("        |          |           |       ")
                 print("         |         |          |        ")
@@ -107,7 +107,7 @@ def main():
                 break
             elif a > 0 and f > 0 and g < 0:
                 print("                   |                  ")
-                print("      |            |            |      ")
+                print("      |            |             |      ")
                 print("       |           |            |      ")
                 print("        |          |           |       ")
                 print("         |         |          |        ")
